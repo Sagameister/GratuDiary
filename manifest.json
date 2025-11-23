@@ -1,0 +1,18 @@
+{
+  "name": "GratuDiary",
+  "short_name": "GratuDiary",
+  "description": "A daily gratitude journal and mood tracker.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#a855f7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iI2E4NTVmNyIgcng9IjEyOCIgcnk9IjEyOCIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0zNjIuNyAxNjUuM2MtMjkuOS0yOS45LTc4LjQtMjkuOS0xMDguMyAwTDExMiAzMThjLTEuNSAxLjUtMi4zIDMuNS0yLjMgNS43djgyLjNjMCA0LjQgMy42IDggOCA4aDgyLjNjMi4xIDAgNC4yLS44IDUuNy0yLjNMNDQ5IDIwOGMyOS45LTI5LjkgMjkuOS03OC40IDAtMTA4LjN6TTIxNS42IDM3NkgxNTZ2LTU5LjZsMTI4LTEyOCA1OS42IDU5LjYtMTI4IDEyOHoiLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
